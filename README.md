@@ -196,6 +196,7 @@ http://localhost:8501
 
 - GitHub: [Anii188](https://github.com/Anii188)
 - Project: [Multimodal Attendance & Engagement Agent]
+- https://github.com/Anii188/multimodal-attendance-agent
 ---
 
 ⭐ If you find this project interesting, feel free to star the repository!
